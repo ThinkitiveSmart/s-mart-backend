@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="auth-service/src/main/java"/>
+	<classpathentry kind="src" path="auth-service/src/test/java"/>
+	<classpathentry kind="src" path="communication-service/src/main/java"/>
+	<classpathentry kind="src" path="communication-service/src/test/java"/>
+	<classpathentry kind="src" path="customer-service/src/main/java"/>
+	<classpathentry kind="src" path="customer-service/src/test/java"/>
+	<classpathentry kind="src" path="eureka-naming-server/src/main/java"/>
+	<classpathentry kind="src" path="eureka-naming-server/src/test/java"/>
+	<classpathentry kind="src" path="inventory-service/src/main/java"/>
+	<classpathentry kind="src" path="inventory-service/src/test/java"/>
+	<classpathentry kind="src" path="purchase-service/src/main/java"/>
+	<classpathentry kind="src" path="purchase-service/src/test/java"/>
+	<classpathentry kind="src" path="sales-service/src/main/java"/>
+	<classpathentry kind="src" path="sales-service/src/test/java"/>
+	<classpathentry kind="src" path="zuul-api-gateway-server/src/main/java"/>
+	<classpathentry kind="src" path="zuul-api-gateway-server/src/test/java"/>
+	<classpathentry kind="lib" path="auth-service/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="communication-service/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="customer-service/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="eureka-naming-server/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="inventory-service/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="purchase-service/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="sales-service/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="zuul-api-gateway-server/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
